@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Damil001!
+# 👋 Hi, I'm Damil!
 
 🌱 I’m a Software Engineer who loves building clever products, solving real-world puzzles, and turning ideas into delightful user experiences.
 
